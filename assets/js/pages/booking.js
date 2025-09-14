@@ -388,6 +388,7 @@ App.Pages.Booking = (function () {
 
             if (providerOptionCount === 2) {
                 $selectProvider.find('option[value=""]').remove();
+                $selectProvider.parent().prop('hidden', true);
             }
 
             // Add the "Any Provider" entry
