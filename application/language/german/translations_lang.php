@@ -17,7 +17,7 @@ $lang['last_name'] = 'Nachname';
 $lang['email'] = 'E-Mail';
 $lang['phone_number'] = 'Telefonnummer';
 $lang['phone'] = 'Phone';
-$lang['address'] = 'Adresse';
+$lang['address'] = 'Rechnungsadresse';
 $lang['city'] = 'Stadt';
 $lang['zip_code'] = 'Postleitzahl';
 $lang['notes'] = 'Bemerkungen';
@@ -487,4 +487,6 @@ $lang['calendar_url'] = 'Calendar URL';
 $lang['please_select'] = 'Bitte Wählen';
 $lang['secret_header'] = 'Secret Header';
 $lang['search'] = 'Search';
+$lang['shooting_location'] = 'Ort des Shootings';
+$lang['contact_preference'] = 'Kontaktpräferenz (E-Mail, WhatsApp, Telefon)';
 // End
