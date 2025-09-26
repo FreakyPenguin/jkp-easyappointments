@@ -489,4 +489,6 @@ $lang['secret_header'] = 'Secret Header';
 $lang['search'] = 'Search';
 $lang['shooting_location'] = 'Ort des Shootings';
 $lang['contact_preference'] = 'Kontaktpräferenz (E-Mail, WhatsApp, Telefon)';
+$lang['imprint'] = 'Impressum';
+$lang['data_protection'] = 'Datenschutz';
 // End

@@ -489,4 +489,6 @@ $lang['secret_header'] = 'Secret Header';
 $lang['search'] = 'Search';
 $lang['shooting_location'] = 'Shooting Location';
 $lang['contact_preference'] = 'Contact Preference (E-Mail, WhatsApp, Phone)';
+$lang['imprint'] = 'Imprint';
+$lang['data_protection'] = 'Data Protection';
 // End

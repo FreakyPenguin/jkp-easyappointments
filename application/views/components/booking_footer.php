@@ -9,8 +9,8 @@
 <div id="frame-footer">
     <small>
         <span class="footer-powered-by small">
-            Powered By
-            <a href="https://easyappointments.org" target="_blank">Easy!Appointments</a>
+        <a href="https://www.justinekaufmann.photo/imprint/" target="_blank"><?= lang('imprint') ?></a>
+        <a href="https://www.justinekaufmann.photo/data-protection/" target="_blank"><?= lang('data_protection') ?></a>
         </span>
 
         <span class="footer-options">
